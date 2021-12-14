@@ -9,5 +9,6 @@
   - https://helix-editor.com/
   - https://github.com/curlpipe/ox
   - https://github.com/rhysd/kiro-editor
+  - https://github.com/gchp/iota
 - Backends:
   - https://github.com/xi-editor/xi-editor
