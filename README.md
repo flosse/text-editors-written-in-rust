@@ -10,5 +10,6 @@
   - https://github.com/curlpipe/ox
   - https://github.com/rhysd/kiro-editor
   - https://github.com/gchp/iota
+  - https://github.com/vamolessa/pepper
 - Backends:
   - https://github.com/xi-editor/xi-editor
