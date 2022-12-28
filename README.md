@@ -23,5 +23,6 @@
   - https://github.com/sidju/hired
   - https://github.com/ilai-deutel/kibi
   - https://github.com/mcobzarenco/zee
+  - https://github.com/Dimev/mininotes
 - Backends:
   - https://github.com/xi-editor/xi-editor
