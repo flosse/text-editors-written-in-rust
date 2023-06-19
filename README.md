@@ -11,7 +11,7 @@
     - GUI: OpenGL
   - https://zed.dev/
     - License: Closed source
-    - State: unknown (no published version)
+    - State: June 23, Beta, only available for Mac
     - GUI: self-made
 - Text based:
   - https://amp.rs/
