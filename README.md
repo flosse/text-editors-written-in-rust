@@ -3,7 +3,7 @@
 - With GUI:
   - https://github.com/lapce/lapce
     - License: Apache 2.0
-    - State: not really usable yet
+    - State: works quite well
     - GUI: [druid](https://github.com/linebender/druid)
   - https://github.com/zackradisic/glyph
     - License: Unknown
