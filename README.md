@@ -22,7 +22,7 @@
 
 - https://helix-editor.com/
   - License: MPL 2.0
-  - Vim inspired
+  - Kakoune inspired
 - https://github.com/vamolessa/pepper
   - License: GPLv3
 - https://github.com/sidju/hired
