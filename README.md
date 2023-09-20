@@ -5,7 +5,9 @@
 - https://github.com/lapce/lapce
   - License: Apache 2.0
   - State: works quite well
-  - GUI: [druid](https://github.com/linebender/druid)
+  - GUI: [floem](https://github.com/lapce/floem)
+  - LSP support
+
 - https://zed.dev/
   - License: Closed source
   - State: June 23, Beta, only available for Mac
@@ -23,6 +25,8 @@
 - https://helix-editor.com/
   - License: MPL 2.0
   - Kakoune inspired
+  - State: works quite well
+  - LSP support
 - https://github.com/vamolessa/pepper
   - License: GPLv3
 - https://github.com/sidju/hired
