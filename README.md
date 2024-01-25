@@ -8,8 +8,8 @@
   - GUI: [floem](https://github.com/lapce/floem)
   - LSP support
 
-- https://zed.dev/
-  - License: Closed source
+- https://github.com/zed-industries/zed
+  - License: Apache 2.0
   - State: June 23, Beta, only available for Mac
   - GUI: self-made
 
